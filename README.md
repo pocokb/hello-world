@@ -6,5 +6,4 @@ ASdASD
 
 Master commit jó -e ?
 
-akármilyen commit
 
