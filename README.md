@@ -13,4 +13,4 @@ NAGYON ÚJ COMMIT MASTERBEN!
 
 akármilyen commit
 
-MÁSIK BRANCH ------------------------
+MÁSIK BRANCH ------------------------ eDit
