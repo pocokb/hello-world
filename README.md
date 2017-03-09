@@ -7,3 +7,5 @@ ASdASD
 Master commit jó -e ?
 
 
+NAGYON ÚJ COMMIT MASTERBEN!
+
