@@ -14,3 +14,5 @@ NAGYON ÚJ COMMIT MASTERBEN!
 akármilyen commit
 
 MÁSIK BRANCH ------------------------ eDit
+
+lenti
