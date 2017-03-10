@@ -5,3 +5,4 @@ new-edit szerkesztes
 
 master szerkesztes
 
+ultra new-edit szerk
